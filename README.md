@@ -1,8 +1,8 @@
-# STARTER-jpa03
+# jpa03-BrennaScholte
 
 Running at: <http://jpa03-brennascholte.dokku-12.cs.ucsb.edu>
 
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+Starter Code Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
